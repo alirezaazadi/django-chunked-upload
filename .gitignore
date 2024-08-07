@@ -1,0 +1,7 @@
+db.sqlite3
+/venv
+.idea
+**.pyc
+**.__pycache__
+uploads/
+*.egg-info
